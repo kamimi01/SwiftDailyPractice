@@ -22,4 +22,8 @@
 //let y = "def"
 //let z = max(x, y)
 
+//let a: Int // this is type annotation
+//a = 1
+//a = 2  // compile error
 
+//let b = a + 1
